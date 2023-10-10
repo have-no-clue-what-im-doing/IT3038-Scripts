@@ -33,8 +33,8 @@ def OrganizeVideo():
     os.system("E:")
     os.system("cd E:\\yikes\\BlackVue\\Record")
     
-    ffmpeg.input('video_rear.txt', format='concat', safe=0).output('output.mkv', c='copy').run()
-    ffmpeg.input('video_front.txt', format='concat', safe=0).output('output.mkv', c='copy').run()
+    ffmpeg.input('video_rear.txt', format='concat', safe=0).output('rear.mkv', c='copy').run()
+    ffmpeg.input('video_front.txt', format='concat', safe=0).output('front.mkv', c='copy').run()
             
 OrganizeVideo()
     
