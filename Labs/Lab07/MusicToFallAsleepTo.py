@@ -11,7 +11,6 @@ def FreqChanger():
             freq = 37
         else:
             freq += 100
-        print(freq)
         MusicPlayer(freq)
 
 FreqChanger()
