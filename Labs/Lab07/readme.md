@@ -1,4 +1,4 @@
-#lab 7
+# lab 7
 
 For this lab I decided to use the winsound library. 
 
