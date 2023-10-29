@@ -13,7 +13,7 @@ print(week[0].text)
 
 find_team = s.select("a[href*=teamid]") #having that teamid makes this a million times easier. Otherwise I'd have to navigate through a stupid amount of table tags. 
 
-#I can make this a function and put the rank variable in there. Might use this as my project and iterate through every single AP poll ever. 
+#I can make this a function and put the rank variable in there. Might use this as my next project and iterate through every single AP poll ever. 
 rank = 1 
 for team in find_team:
     print(f"{rank} {team.text}")
