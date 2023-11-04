@@ -1,2 +1,3 @@
-This lab uses BeautifulSoup to scrape the College Football AP website and scrape the rankings for any week starting in 1936 to present. 
-It outputs the top 25 for the selected week. 
+This project scrapes the College Football AP Archives. It will generate the rankings in a format where they can be used with the Flourish webapp to create graph visualizations.
+
+Here is a [video](https://youtu.be/jSpgypVZjKs) with more detail:
