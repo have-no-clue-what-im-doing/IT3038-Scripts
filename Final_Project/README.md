@@ -1,4 +1,5 @@
-# Newcastle United FC Project | Automatically show the Newcastle game for each week
+# Newcastle United FC Project 
+### Automatically show the Newcastle game for each week
 
 This script checks to see if there is Newcastle United FC game for the day, and if there is, power on a remote computer and display the game.\
 Useful little script that frees up like 30 seconds of my time each weekend :)\
