@@ -1,6 +1,8 @@
 # Requirements and Dependencies:
 
-This script checks to see if there is Newcastle United FC game for the day, and if there is, power on a remote computer and display the game.
+This script checks to see if there is Newcastle United FC game for the day, and if there is, power on a remote computer and display the game.\
+Useful little script that frees up like 30 seconds of my time each weekend :)\
+I know longer have to check and see which network the game will be on. All done automatically. 
 
 There are two versions of this script for either Windows or Debian based Linux\
 To test this script you will need the following:
