@@ -35,7 +35,7 @@ Also ensure both machines are on the same broadcast domain so wake on lan works
 
 You'll also need Peacock and YoutubeTV. Technically not if you just want to see if it work without watching the game.
 
-#Installation
+# Installation
 
 This script runs off of Python and Powershell. Your host machine must have Powershell and your client machine must have both Python and Powershell\
 [Link to download Python](https://www.python.org/downloads/)\
