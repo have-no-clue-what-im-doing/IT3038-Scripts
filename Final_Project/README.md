@@ -2,7 +2,7 @@
 ### Automatically show the Newcastle game for each week
 
 This script checks to see if there is Newcastle United FC game for the day, and if there is, power on a remote computer and display the game.\
-Newcastle games are shown on three different channels, from two different streaming services. YoutubeTV & Peacock\
+Newcastle English Premier League games are shown on three different channels, from two different streaming services. YoutubeTV & Peacock\
 This script will determine if there is a match for the day and then find which streaming service it is on, grab that link, and then turn on a remote computer and automatically show the game.\
 Useful little script that frees up like 30 seconds of my time each weekend :)\
 I no longer have to check and see which network the game will be on nor turn on my TV and navigate to the proper channel. All done automatically. 
@@ -67,7 +67,7 @@ Also, very important, ensure all your pip packages are up to date, otherwise you
 If you're running the script off Linux you will also need wakeonlan, which can be installed here:
 `sudo apt-get install wakeonlan`
 
-Once all requirements are downloaded and installed you are good to run the script. Feel free to have this run via task scheduler or as a cron job. Best time would be in morning, a couple hours before 9am EST. 
+Once all requirements are downloaded and installed you are good to run the script. Feel free to have this run via task scheduler or as a cron job. Best time would be in the morning, a couple hours before 9am EST. 
 
 # Video Demo & Code Overview
 
