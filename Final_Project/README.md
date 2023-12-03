@@ -10,7 +10,8 @@ To test this script you will need the following:
 1 Windows computer to display the Newcastle game (as host)\
 1 Windows / Linux computer to run the script (as client)
 
-The host machine must have a NIC that allows Wake On Lan. Otherwise you will have to manually turn on the machine yourself before running the script
+The host machine must have a NIC that allows Wake On Lan. Otherwise you will have to manually turn on the machine yourself before running the script\
+If your NIC does have WOL you will have to enable it via the BIOS and also on the Windows network adapter settings.
 
 Both machines will need `SSH`\
 For most Linux distros it should be installed by default. If not you can run `sudo apt-get install openssh-client`\
