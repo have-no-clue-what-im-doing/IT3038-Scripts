@@ -55,3 +55,8 @@ If you're running the script off Linux you will also need wakeonlan, which can b
 `sudo apt-get install wakeonlan`
 
 Once all requirements are downloaded and installed you are good to run the script. Feel free to have this run via task scheduler or as a cron job. Best time would be in morning, a couple hours before 9am EST. 
+
+# Video Demo
+
+Here is a quick demo from today's match:\
+[Newcastle United Script Demo](https://www.youtube.com/watch?v=7yUs42R5NmY)
