@@ -42,6 +42,10 @@ This script runs off of Python and Powershell. Your host machine must have Power
 Powershell should be downloaded by default on Windows unless you disabled / uninstalled it
 
 Before running the script, be sure to install all dependencies:\
+First ensure pip is installed. If not:\
+`sudo apt-get install python3-pip`
+
+Now install all requirements:
 `pip install -r requirments.txt` 
 
 If you're running the script off Linux you will also need wakeonlan, which can be installed here:
