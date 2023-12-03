@@ -36,7 +36,8 @@ Your host machine will also need Google Chrome installed in its default director
 For the following functions you will have to add in your own login and machine info:\
 `PowerOnComputer`\
 `RestartComputer`\
-`CreateChromeShortcut`
+`CreateChromeShortcut` You will also need to change the `$shortcutPath` variable to your host machine's start up directory.
+
 
 Yes, having the password in plain text is bad practice, but this has already taken up enough of my time
 
