@@ -52,7 +52,7 @@ For Linux:\
 
 
 Now install all requirements:\
-`pip install -r requirments.txt` 
+`sudo pip install -r requirments.txt` 
 
 You may also need to manually install Beautiful Soup if you get an error regarding bs4:\
 `sudo pip install BeautifulSoup4`
