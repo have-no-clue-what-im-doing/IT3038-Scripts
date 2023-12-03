@@ -229,7 +229,9 @@ def WatchNewcastleMatch():
         RestartComputer()
         return "All commands sent successfully, game is ready to watch!"
 
-print(WatchNewcastleMatch())
+if __name__ == "__main__":
+    print(WatchNewcastleMatch())
+
 
 
 
