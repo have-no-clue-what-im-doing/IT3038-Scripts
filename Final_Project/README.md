@@ -2,7 +2,7 @@
 
 This script checks to see if there is Newcastle United FC game for the day, and if there is, power on a remote computer and display the game.
 
-There are also two versions of this script for either Windows or Debian based Linux\
+There are two versions of this script for either Windows or Debian based Linux\
 To test this script you will need the following:
 
 1 Windows computer to display the Newcastle game (as host)\
@@ -12,7 +12,7 @@ The host machine must have a NIC that allows wake on lan. Otherwise you will hav
 
 Both machines will need `SSH`\
 For most Linux distros it should be installed by default. If not you can run `sudo apt-get install openssh-client`\
-For windows machines you will need to install [OpenSSH](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=powershell) 
+For windows machines you will need to install [OpenSSH](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=powershell) \
 Be sure to add firewall rules to allow SSH traffic.
 
 For the Windows host machine, you need to enable [auto-login](https://learn.microsoft.com/en-us/troubleshoot/windows-server/user-profiles-and-logon/turn-on-automatic-logon)
