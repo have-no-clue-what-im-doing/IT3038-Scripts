@@ -2,6 +2,8 @@
 ### Automatically show the Newcastle game for each week
 
 This script checks to see if there is Newcastle United FC game for the day, and if there is, power on a remote computer and display the game.\
+Newcastle games are shown on three different channels, from two different streaming services. YoutubeTV & Peacock\
+This script will determine if there is a match for the day and then find which streaming service it is on, grab that link, and then turn on a remote computer and automatically show the game.\
 Useful little script that frees up like 30 seconds of my time each weekend :)\
 I no longer have to check and see which network the game will be on nor turn on my TV and navigate to the proper channel. All done automatically. 
 
