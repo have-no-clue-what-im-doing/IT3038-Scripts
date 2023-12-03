@@ -47,4 +47,4 @@ Before running the script, be sure to install all dependencies:\
 If you're running the script off Linux you will also need wakeonlan, which can be installed here:
 `apt-get install wakeonlan`
 
-Once all requirements are downloaded and installed you are good to run the script. Feel free to have this run via task scheduler or as a cron job. Best time would be in morning, a couple hours before 9am local time. 
+Once all requirements are downloaded and installed you are good to run the script. Feel free to have this run via task scheduler or as a cron job. Best time would be in morning, a couple hours before 9am EST. 
