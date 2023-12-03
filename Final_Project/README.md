@@ -23,6 +23,7 @@ Be sure to make note of the following on your host machine:
 `IP Address`\
 `MAC Address`
 
+You're host machine will also need Google Chrome installed in its default directory. 
 
 For the following functions you will have to add in your own login and machine info:\
 `PowerOnComputer`\
