@@ -22,13 +22,13 @@ Be sure to make note of the following on your host machine:
 `Username`\
 `Password`\
 `IP Address`\
-`MAC Address`\
+`MAC Address`
 
 
 For the following functions you will have to add in your own login and machine info:\
 `PowerOnComputer`\
 `RestartComputer`\
-`CreateChromeShortcut`\
+`CreateChromeShortcut`
 
 Yes, having the password in plain text is bad practice, but this has already taken up enough of my time
 
