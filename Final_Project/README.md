@@ -18,7 +18,6 @@ Be sure to add firewall rules to allow SSH traffic.
 For the Windows host machine, you need to enable [auto-login](https://learn.microsoft.com/en-us/troubleshoot/windows-server/user-profiles-and-logon/turn-on-automatic-logon)
 
 Be sure to make note of the following on your host machine:
-
 `Username`\
 `Password`\
 `IP Address`\
