@@ -45,8 +45,11 @@ Before running the script, be sure to install all dependencies:\
 First ensure pip is installed. If not:\
 `sudo apt-get install python3-pip`
 
-Now install all requirements:
+Now install all requirements:\
 `pip install -r requirments.txt` 
+
+You may also need to manually install Beautiful Soup if you get an error regarding bs4:\
+`sudo pip install BeautifulSoup4`
 
 If you're running the script off Linux you will also need wakeonlan, which can be installed here:
 `sudo apt-get install wakeonlan`
