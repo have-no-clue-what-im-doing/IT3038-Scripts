@@ -59,7 +59,12 @@ If you're running the script off Linux you will also need wakeonlan, which can b
 
 Once all requirements are downloaded and installed you are good to run the script. Feel free to have this run via task scheduler or as a cron job. Best time would be in morning, a couple hours before 9am EST. 
 
-# Video Demo
+# Video Demo & Code Overview
 
 Here is a quick demo from today's match:\
 [Newcastle United Script Demo](https://www.youtube.com/watch?v=7yUs42R5NmY)
+
+Overview of Code:\
+[Code Overview](https://youtu.be/TlYU6IIa4UE) 
+
+I made a small change right after the demo video. I took out locally creating the chrome shortcut and now have it created using an ssh connection and onto the host machine directly instead.
