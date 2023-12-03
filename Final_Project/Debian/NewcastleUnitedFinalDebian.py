@@ -168,7 +168,7 @@ def GetSleepTime():
     timeDiffSecs = timeDiff.total_seconds()
     return timeDiffSecs
 
-#Power on computer using wakeonlan. Note: must run "sudo apt-get install wakeonlan" first for this command to work. Also must enable WOL on client machine
+#Power on computer using wakeonlan. Note: must run "sudo apt-get install wakeonlan" first for this command to work. Also must enable WOL on host machine
 def PowerOnComputer(mac):
     subprocess.run(f"wakeonlan {mac}", shell=True, capture_output=True, text=True)
     return "Computer Powered On"
