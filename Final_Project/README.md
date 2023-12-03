@@ -12,7 +12,7 @@ The host machine must have a NIC that allows wake on lan. Otherwise you will hav
 
 Both machines will need `SSH`\
 For most Linux distros it should be installed by default. If not you can run `sudo apt-get install openssh-client`\
-For windows machines you will need to install [OpenSSH](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=powershell) 
+For windows machines you will need to install [OpenSSH](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=powershell) \
 Be sure to add firewall rules to allow SSH traffic.
 
 For the Windows host machine, you need to enable [auto-login](https://learn.microsoft.com/en-us/troubleshoot/windows-server/user-profiles-and-logon/turn-on-automatic-logon)
