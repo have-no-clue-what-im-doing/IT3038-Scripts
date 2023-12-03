@@ -57,6 +57,8 @@ Now install all requirements:\
 You may also need to manually install Beautiful Soup if you get an error regarding bs4:\
 `sudo pip install BeautifulSoup4`
 
+Also, very important, ensure all your pip packages are up to date, otherwise you could get some errors. 
+
 If you're running the script off Linux you will also need wakeonlan, which can be installed here:
 `sudo apt-get install wakeonlan`
 
