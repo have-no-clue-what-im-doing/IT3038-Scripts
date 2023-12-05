@@ -47,7 +47,7 @@ You'll also need Peacock and YoutubeTV. Technically not if you just want to see 
 
 # Installation
 
-This script runs off of Python and Powershell. Your host machine must have Powershell and your client machine must have both Python and Powershell\
+This script runs off of Python and Powershell. Your host machine must have Powershell and your client machine must have Python.\
 [Link to download Python](https://www.python.org/downloads/)\
 Powershell should be downloaded by default on Windows unless you disabled / uninstalled it
 
